@@ -26,6 +26,8 @@ dependencies:
 - matrix == 0.3.6.1
 - extra == 1.6.18
 - deepseq
+- MissingH
+- graph-wrapper
 
 library:
   source-dirs: src
